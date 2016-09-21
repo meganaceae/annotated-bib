@@ -1,0 +1,41 @@
+Adler, P.B. et. al. (2013) Trait-based tests of coexistence mechanisms.
+
+A review of the thought process behind functional trait studies and community ecology theory to better explain coexistence mechanisms. Focuses on plant functional traits and cites many previous studies. Enumerates the limitations of previous studies as such: 1) trait dispersion test have low power to detect niche partitioning, 2) similar processes can generate patterns of environmental filtering and niche partitioning, thus patterns of trait dispersion that indicate one or the other need to be examined more closely 3) phenomenological studies cannot answer questions about differences in species richness or predict how species richness will be affected by disturbances or environmental change. Additionally, more data on resource availability within communities is needed to properly analyze the effect of functional processes.  Species responses to temporal environmental change, resource limitations, and natural enemies may also be important factors when considering coexistence mechanisms. 
+Future directions of trait-based tests should be focused on environmental heterogeneity. 
+The first priority would be to examine spatial heterogeneity of environmental variables. In an ideal world, the best test would focus on environmental heterogeneity at fine, within-community scales and would quantify species responses in the absence of competition. In systems with long-lived species, tests should rely on fitness components or long-term demographic data to fit neighborhood competition models. Other, less-than-ideal but still informative tests should focus on 1) trait variation along environmental gradients and 2 ) look for a positive correlation between species pairwise trait differences in response to environmental variables. 
+Examining temporal heterogeneity is a promising direction, especially when considering leaf traits and seed size. The test here is to correlate trait differences with a parameter describing the difference in population growth rates and population maximums. This tests the relative nonlinearity of the system. Additionally interesting is examining the temporal storage effect (e.g. - germination triggered by cold vs. warm rain in different species). 
+Phenomenological approaches are not completely without merit, and are currently the best way to estimate the combined effects of multiple different functional processes acting at once (as happens in the real world).  
+
+—
+
+Levine, J.M. (2016) A trail map for trait-based studies.
+
+Trait based studies show the capacity to help us understand general patterns of species coexistence and use these patterns to predict changes in species and communities. This is possible because using studying traits helps us to better understand organismal function. Using these trait-based studies helps us better ask “what drives community coexistence?” by allowing us to transform the question into “what processes explain the dispersion of traits among community members?” This question is more specific and gets at the meat of the mechanisms (function/process) rather than using species richness as a proxy for determining coexistence mechanisms. 
+Currently, we know of two primary tradeoffs between functional traits that occur globally: 1) plant size - small seeds and short trees vs. large seeds and tall trees 2) leaf strategy - acquisitive, low LMA, high nitrogen content leaves vs. conservative, high LMA, low nitrogen content leaves. However, these tradeoffs don’t predict general competition dynamics when modeled (traits modeled were LMA, plant height, wood density). 
+What Kunstler et. al. did find, though, is that certain traits predict competitive advantages of certain species over others, and that competition is greater within species than between species. Functional differences must determine this difference in competition, but the question now is: what traits account for the differences, and can they be detected and measured?
+
+—
+
+McGill, B.J. et. al. (2006) Rebuilding community ecology from functional traits.
+
+Trait-based studies have traditionally focused on pairwise species interactions independent of environmental variables. In the past, three types of studies have been most popular: empirical studies, population dynamics studies, and community resource models. Empirical studies have focus on few species, nomenclature-based studies, ignored trait comparison, ignored comparing abiotic variables between sites, and used ANOVA tests rather than effect sizes and R^2 to describe differences in community patterns.  Population dynamics are not effective to describe the chaos in species-diverse systems. And community resource models explore nutrient gradients and uptake strategies but do not account for non-consumable factors (e.g. temperature) and usually use population dynamics rather than physiological-based performance comparisons amongst different individuals/species
+
+ In order to understand more general patterns across a wide range of ecosystems and in different communities, this paper proposes a two-fold approach to move forward with functional traits studies: 1) explore how niches are governed by functional traits by studying trait variation along abiotic gradients and 2) explore how interactions between traits and niches map onto the realized niche. 
+To do this, ecologists should 1) focus more on trait-based studies rather than nomenclature-based studies, 2) compare abiotic variation over environmental gradients to capture a wide amount of continuous change, 3) look at biotic interactions in a “species milieu” (all together) rather than focusing on one-on-one interactions, and 4) examine “performance currencies” (direct, measurable effects - e.g. seed size vs. number) rather than population rater and other more abstract measures of success. 
+
+
+
+\begin{center}
+\begin{tabular}{ c c }
+ Instead of... & Ask...  \\ 
+  How many species, why & How much trait variation, why \\  
+ In what environments do species occur & What traits/environmental variables are the most important in determining fundamental niche \\   
+ What are the most important niche dimensions & What traits are most decisive in translating fundamental to realized niche \\ 
+ How does population dynamics determine abundance & How does the performance of species in the interaction milieu determine ranking of abundance/biomass \\ 
+ How does space affect population dynamics & How do environmental gradients affect community structure \\ 
+
+\end{tabular}
+\end{center}
+
+
+
